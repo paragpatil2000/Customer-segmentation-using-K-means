@@ -1,4 +1,4 @@
-# Customer-segmentation-using-K-means
+
 # Customer Segmentation Using K-Means Clustering
 
 This project groups customers into different segments based on:
